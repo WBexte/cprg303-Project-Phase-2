@@ -3,4 +3,4 @@ This repository contains the ADRs for group 7 (CodeJammerz!) in relation to the 
 The work was completed by William Bexte, Antonio Hernandez and Joesph Adam
 
 ## ADRs in this repository
-[UI Toolkit ADR](https://github.com/WBexte/cprg303-Project-Phase-2/blob/main/UI_Toolkit_ADR.md)
+- [UI Toolkit ADR](https://github.com/WBexte/cprg303-Project-Phase-2/blob/main/UI_Toolkit_ADR.md)
