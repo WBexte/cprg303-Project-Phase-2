@@ -2,7 +2,7 @@
 Hardware required for Successful Music Streaming App
 
 ## Status
-The status of this ADR is *accepted*
+The status of this ADR is *pending*
 
 ## Context
 In terms of hardware needed for *Dotify* to be successful, there was limited ideas that came to mind, as you will see later in this record.
