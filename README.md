@@ -4,3 +4,5 @@ The work was completed by William Bexte, Antonio Hernandez and Joesph Adam
 
 ## ADRs in this repository
 - [UI Toolkit ADR](https://github.com/WBexte/cprg303-Project-Phase-2/blob/main/UI_Toolkit_ADR.md)
+- [Navigation Strategy ADR](https://github.com/WBexte/cprg303-Project-Phase-2/blob/main/Navigation_Strategy.md)
+- [Hardware Usage ADR](https://github.com/WBexte/cprg303-Project-Phase-2/blob/main/Hardware.md)
